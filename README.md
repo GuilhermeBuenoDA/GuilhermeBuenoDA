@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Olá! Sou estudante do Ensino Médio técnico em Desenvolvimento de Sistemas. Meu objetivo principal é criar interfaces lindas, modernas e experiências digitais interativas das quais eu sinta orgulho de ter desenvolvido.
+<p align="center">Olá! Sou estudante do Ensino Médio técnico em Desenvolvimento de Sistemas, Atualmente no 3° do ensino médio. Meu objetivo principal é criar interfaces lindas, modernas e experiências digitais interativas das quais eu sinta orgulho de ter desenvolvido.
 
 > *Transformando dedicação em código e ideias em interfaces únicas.*
   
