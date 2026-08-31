@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:guitzn9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vin%C3%ADcius%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gu%C3%ADlherme%20Bueno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)]()
 
 
